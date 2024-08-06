@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to Tnhaan20 Github
 
-<img src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" width="300" alt="Coding Mario" />
+<img align="right" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" width="300" alt="Coding Mario" />
 
 - 🌱 I'm currently studying at **FPT University**
 - 🤝 I'm looking to work on **reality projects**
