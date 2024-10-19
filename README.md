@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I’m @Tnhaan20
-🌱 I'm currently studying at **FPT University**
-🤝 I'm looking to work on **reality projects**
-📫 How to reach me **nhanvothanh.200704@gmail.com**
+👋 Hi, I’m @Tnhaan20<br>🌱 I'm currently studying at **FPT University**<br>🤝 I'm looking to work on **reality projects**<br>📫 How to reach me **nhanvothanh.200704@gmail.com**
 
 ## 🌐 Socials:
 
